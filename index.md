@@ -1,7 +1,9 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zjpid/zjp.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 [使用Gitee+Hexo搭建个人博客](https://www.jianshu.com/p/5014133ba61a)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
